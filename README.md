@@ -1,7 +1,6 @@
 # PDGO PowerApp 
 
-This document will go over how to copy tables over to the 
-Publice Defender Azure SQL database. You will need Outlook login credentials provided by LAC Public Defender IT Dept. 
+This document will go over how to copy sharepoint tables used in the PDGO power app over to the Public Defender Azure SQL database. You will need Outlook login credentials provided by LAC Public Defender IT Dept. 
 
 ## Export PDGO Tables
 This link will direct to the sharepoint tables used by Public Defender (tables are also included in this repository): 
