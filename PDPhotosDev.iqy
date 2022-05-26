@@ -1,0 +1,16 @@
+WEB
+1
+https://lacounty.sharepoint.com/teams/ITSupportApps/_vti_bin/owssvr.dll?XMLDATA=1&List={5F784BF6-4B1A-479F-9B67-381090907921}&View=93D24B31-FDBA-4379-A73D-C5DB70601713&RowLimit=0&RootFolder=
+
+Selection={5F784BF6-4B1A-479F-9B67-381090907921}-93D24B31-FDBA-4379-A73D-C5DB70601713
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://lacounty.sharepoint.com/teams/ITSupportApps/_vti_bin
+SharePointListView=93D24B31-FDBA-4379-A73D-C5DB70601713
+SharePointListName={5F784BF6-4B1A-479F-9B67-381090907921}
+RootFolder=
